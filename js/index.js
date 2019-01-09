@@ -71,7 +71,7 @@ $(document).ready(()=>{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div><br>
                 <h3 class="page-header">Latest Repos</h3>
                 <div id="repos"></div>
             `);
